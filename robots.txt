@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cistagea.github.io/sitemap.html.gz
+Sitemap: https://cistagea.github.io/app/sitemap.html.gz
+Sitemap: https://cistagea.github.io/assets/sitemap.html.gz
+Sitemap: https://cistagea.github.io/css/sitemap.html.gz
+Sitemap: https://cistagea.github.io/data/sitemap.html.gz
+Sitemap: https://cistagea.github.io/includes/sitemap.html.gz
+Sitemap: https://cistagea.github.io/item/sitemap.html.gz
+Sitemap: https://cistagea.github.io/src/sitemap.html.gz
